@@ -53,3 +53,10 @@ $$Итог = 5 \times mathround \left(\frac{Баллы \ за \ ДЗ}{Макс. 
 
 Вопрос на рассуждение. Будет предложена задача из реального мира, как-то описаны данные и имеющиеся ресурсы. От студента требуется сформулировать задачу в терминах машинного обучения, предложить наилучшее на его взгляд решение, описать возможные проблемы и способы их устранения.
 
+### Материалы
+
+| Материал | Ссылка |
+| :-------- | :------- |
+| Записи лекций | [Ссылка](https://drive.google.com/drive/folders/1tl3O15BVU86Cx_Ql-B_u4ewM-g-obFug?usp=sharing)|
+| Записи семинаров (Пермь) | [Ссылка](https://drive.google.com/drive/folders/1IIUTxlsSLnHLpWSU3aJqhFFRyqyazFc7?usp=sharing)|
+| Записи семинаров (Рязань) | [Ссылка](https://drive.google.com/drive/folders/14v_lEpfInepXQADu4ZPpXFE5Q0scvH1v?usp=sharing)|
