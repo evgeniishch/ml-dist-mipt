@@ -23,15 +23,15 @@ class SVM(BaseEstimator, ClassifierMixin):
 
     @staticmethod
     def rbf(x_1, x_2, sigma=1.):
-    '''Computes rbf kernel for batches of objects
+        '''Computes rbf kernel for batches of objects
 
-    Args:
-        x_1: torch.tensor shaped `(#samples_1, #features)` of type torch.float32
-        x_2: torch.tensor shaped `(#samples_1, #features)` of type torch.float32
-    Returns:
-        kernel function values for all pairs of samples from x_1 and x_2
-        torch.tensor of type torch.float32 shaped `(#samples_1, #samples_2)`
-    '''
+        Args:
+            x_1: torch.tensor shaped `(#samples_1, #features)` of type torch.float32
+            x_2: torch.tensor shaped `(#samples_1, #features)` of type torch.float32
+        Returns:
+            kernel function values for all pairs of samples from x_1 and x_2
+            torch.tensor of type torch.float32 shaped `(#samples_1, #samples_2)`
+        '''
         distances = ### YOUR CODE HERE
         return torch.Tensor(distances).type(torch.float32)
 
