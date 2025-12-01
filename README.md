@@ -16,7 +16,7 @@ $$Итог = mathround \left[ 5 \times \left(\frac{Баллы \ за \ ДЗ}{М�
 | :-------- | :------- | :------------------------- | :------ |
 | Линейная регрессия | 26 октября 2025 11:59 PM | [Kaggle](https://www.kaggle.com/t/aa4a2bf594724d7a9e778d07a54f0e6b) | [Ссылка для сдачи](https://forms.gle/S5YkRJLvZ4JQuDqD9) |
 | Классификация | 30 ноября 23:59 | [Kaggle](https://www.kaggle.com/t/269fbed8f23c4f9087a89a1ad1756fc6) | |
-| Нейросети | 29 декабря 23:59 | | |
+| Нейросети | 11 января 23:59 | [Kaggle](https://www.kaggle.com/t/9a406b17eb6c4f55ac40663a95ab138b) | [Ссылка для сдачи](https://forms.gle/N1pCVF1BssAoqkaU8) |
 
 Оценка за каждый контест Kaggle формируется по критериям
 - Преодоление бейзлайна на public - 1 балл
@@ -62,7 +62,7 @@ $$Итог = mathround \left[ 5 \times \left(\frac{Баллы \ за \ ДЗ}{М�
 | Линейная регрессия | 12 окт 2025, 23:59 | [Contest](https://contest.yandex.ru/contest/82003/problems/) |
 | Метрики классификации | 22 октября, 23:59 | [Contest](https://contest.yandex.ru/contest/83245/problems/) |
 | SVM | 29 октября, 23:59 | [Contest](https://contest.yandex.ru/contest/83246/problems/) |
-| Нейросети | 29 декабря 23:59 | |
+| Нейросети | 28 декабря 23:59 | [Contest](https://contest.yandex.ru/contest/86376/enter/)|
 
 
 Плагиат будет караться аннулированием работы для всех причастных без возможности апелляции.
