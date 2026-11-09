@@ -15,7 +15,7 @@ $$Итог = mathround \left[ 5 \times \left(\frac{Баллы \ за \ ДЗ}{М�
 | Название | Дедлайн     | Ссылка на Kaggle       | Ссылка для сдачи лабы | 
 | :-------- | :------- | :------------------------- | :------ |
 | Линейная регрессия | 1 ноября 2026 11:59 PM | [Kaggle](https://www.kaggle.com/t/8a91759646ac4abab38d14de8c22f712) | [Ссылка для сдачи](https://forms.gle/1aK9XkQfCo9mzv1q9) |
-| Классификация | TBA | TBA | TBA |
+| Классификация | 29 ноября 2026 11:59 PM | [Kaggle](https://www.kaggle.com/t/99cf2ccad4d64333a302df15ed56dcde) | TBA |
 | Нейросети | TBA | TBA | TBA |
 
 Оценка за каждый контест Kaggle формируется по критериям
