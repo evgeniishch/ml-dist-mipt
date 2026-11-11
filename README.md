@@ -61,8 +61,8 @@ $$Итог = mathround \left[ 5 \times \left(\frac{Баллы \ за \ ДЗ}{М�
 | :-------- | :------- | :------------------------- |
 | Линейная регрессия | 18 окт 2026, 23:59:59 | [Contest](https://contest.yandex.ru/contest/101167/enter/) |
 | Метрики классификации | 25 окт 2026, 23:59:59 | [Contest](https://contest.yandex.ru/contest/101168/enter) |
-| SVM | 25 окт 2025, 23:59:59 | [Contest](https://contest.yandex.ru/contest/101169/enter) |
-| Нейросети | TBA | TBA|
+| SVM | 25 окт 2026, 23:59:59 | [Contest](https://contest.yandex.ru/contest/101169/enter) |
+| Нейросети | 20 дек 2026, 23:59:59 | [Contest](https://contest.yandex.ru/contest/103516/problems/)|
 
 
 Плагиат будет караться аннулированием работы для всех причастных без возможности апелляции.
